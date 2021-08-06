@@ -1,12 +1,9 @@
 <!--  
-
-    Link Github     :
+    Link     : https://github.com/arieginulur/nilaimahasiswa
     NIM             : 10918020
     Nama            : Ari Dwi Ginulur
     Kelas           : MI-1
-
 -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,6 +38,8 @@
             <h4>Data Nilai Mahasiswa</h4>
             <div class="card">
                 <div class="card-body">
+                    <a href="" class="btn btn-primary">Tambah</a>
+                    <hr>
                     <table class="table table-bordered">
                         <thead>
                             <tr align="center">
@@ -56,7 +55,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                            
+
                         </tbody>
                     </table>
                 </div>
