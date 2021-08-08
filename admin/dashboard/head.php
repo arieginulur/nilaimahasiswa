@@ -1,3 +1,9 @@
+    <!--  
+    Link     : https://github.com/arieginulur/nilaimahasiswa
+    NIM      : 10918020
+    Nama     : Ari Dwi Ginulur
+    Kelas    : MI-1
+-->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

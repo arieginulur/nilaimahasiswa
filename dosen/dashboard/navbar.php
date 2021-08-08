@@ -1,3 +1,9 @@
+    <!--  
+    Link     : https://github.com/arieginulur/nilaimahasiswa
+    NIM      : 10918020
+    Nama     : Ari Dwi Ginulur
+    Kelas    : MI-1
+-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <a class="navbar-brand" href="index">
             <img src="https://www.unikom.ac.id/img/logo_unikom_kuning.png" width="30" height="30" class="d-inline-block align-top" alt="Unikom">

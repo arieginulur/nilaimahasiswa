@@ -1,10 +1,10 @@
+<!--  
+    Link     : https://github.com/arieginulur/nilaimahasiswa
+    NIM      : 10918020
+    Nama     : Ari Dwi Ginulur
+    Kelas    : MI-1
+-->
 <?php
-/*  
-Link     : https://github.com/arieginulur/nilaimahasiswa
-NIM      : 10918020
-Nama     : Ari Dwi Ginulur
-Kelas    : MI-1
-*/
     if($_SERVER["REQUEST_METHOD"] === "POST"){
         session_start();
         require_once "config/database.php";

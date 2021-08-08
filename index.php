@@ -111,6 +111,30 @@
                     <p class="text-red"><?php echo $Err ?></p>
                 <?php } ?>
             </div>
+            <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <table class="table">
+                                <tr>
+                                    <td>AKUN</td>
+                                    <td>PASSWORD</td>
+                                </tr>
+                                <tr>
+                                    <td>admin</td>
+                                    <td>admin</td>
+                                </tr>
+                                <tr>
+                                    <td>1231231 (Sample akun dosen)</td>
+                                    <td>1234</td>
+                                </tr>
+                                <tr>
+                                    <td>10918020 (Sample akun mahasiswa)</td>
+                                    <td>1234</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
         </div>
     </div>
 </body>

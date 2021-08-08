@@ -1,3 +1,9 @@
+<!--  
+    Link     : https://github.com/arieginulur/nilaimahasiswa
+    NIM      : 10918020
+    Nama     : Ari Dwi Ginulur
+    Kelas    : MI-1
+-->
 <h4>Hapus Dosen</h4>
 <div class="card">
     <form action="module/dosen_delete" method="post">

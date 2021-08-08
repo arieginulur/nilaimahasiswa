@@ -17,7 +17,7 @@
                     <input type="text" value="<?php echo $data["nim"]." - ".$data["nama"] ?>" class="form-control" readonly>
                 </div>
                 <div class="form-group">
-                    <label>Mahasiswa</label>
+                    <label>Dosen</label>
                     <input type="text" value="<?php echo $data["nip"]." - ".$data["dosen"] ?>" class="form-control" readonly>
                 </div>
                 <div class="form-group">
@@ -32,6 +32,7 @@
                     <label>Nilai UAS</label>
                     <input type="number" class="form-control" name="nl_uas" value="<?php echo $data["nl_uas"] ?>" placeholder="0" autocomplete="off" required>
                 </div>
+                <input type="hidden" name="id" value="<?php echo $data["id"]?>">
             <?php } ?>
         </div>
         <div class="card-footer">

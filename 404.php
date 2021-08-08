@@ -1,1 +1,1 @@
-<a>Not found</a>
+<a>Not found. Error 404</a>
